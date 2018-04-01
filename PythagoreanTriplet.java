@@ -1,4 +1,4 @@
-
+// Problem 9
 public class PythagoreanTriplet{
 	public int a, b, c;
 	public boolean findTriplet(int sum) {
