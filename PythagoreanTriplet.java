@@ -1,5 +1,5 @@
 
-public class PythagoreanTriplet extends MultipleOf3And5 {
+public class PythagoreanTriplet{
 	public int a, b, c;
 	public boolean findTriplet(int sum) {
 		int c;
