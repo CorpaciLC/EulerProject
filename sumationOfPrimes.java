@@ -1,4 +1,4 @@
-
+// Problem 10
 public class sumationOfPrimes {
 	public boolean checkPrime(double n) {
 		if(n == 2 || n == 3) return true;
