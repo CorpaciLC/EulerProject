@@ -1,3 +1,4 @@
+// Problem 8
 public class product{
 public long getMaxProd(String n, long prod, long aux) {
 	int i = 0;
